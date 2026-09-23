@@ -1,0 +1,10 @@
+
+Create a Service Account
+
+Simulate a delay in IAM propagation using null_resource
+
+Dynamically construct the service account email using project_id
+
+Assign it to a GCE VM without depends_on → it fails
+
+Then fix it by using depends_on

@@ -1,0 +1,15 @@
+
+Terraform Example Using count – Dynamic VPC, Subnets, and VMs
+This example demonstrates how to:
+--------------------------------------------------------------------------
+
+Create a custom VPC
+
+Dynamically provision multiple subnets
+
+Dynamically create multiple GCE instances
+
+Set up firewall rules for SSH and HTTP
+
+All using count meta-argument and Terraform variables for full flexibility.
+
