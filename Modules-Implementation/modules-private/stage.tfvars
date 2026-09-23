@@ -1,0 +1,6 @@
+local_vpc_name = "stage-vpc"
+local_subnet_name = "stage-subnet"
+local_subnet_cidr = "10.7.0.0/16"
+local_vm_name = "stage-vm"
+local_machine_type = "e2-medium"
+local_zone = "us-central1-a"
